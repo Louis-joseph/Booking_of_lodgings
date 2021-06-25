@@ -8,3 +8,5 @@
   <li>HTML<></li>
   <li>CSS🌈</li>
   <li>MCD</li>
+  <br>
+  <h3>This lodge reservation platform will be managed by a single administrator who can take care of adding, edit or deleting lodgings.</h3>
